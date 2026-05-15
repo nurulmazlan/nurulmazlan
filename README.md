@@ -1,4 +1,4 @@
-## Hi there, I'm Nurul Mazlan 👋
+## Hi, I'm Nurul Mazlan 👋
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
