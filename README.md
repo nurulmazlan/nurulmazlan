@@ -11,7 +11,7 @@ I'm a beginner Data Analyst wih an interest in learning how data can help decisi
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://nurulmazlan.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://github.com/nurulmazlan)
 
       
 ## 🔭 What I'm Currently Working On 
