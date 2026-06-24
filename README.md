@@ -7,7 +7,7 @@
 </p>
 
 ## 🚀 About Me 
-I'm a beginner Data Analyst wih an interest in learning how data can help decisions making in business. I have basic skills in Microsoft Excel, SQL and Python. I enjoy working with data to find simple insight and solving problems. I'm eager to learn, improve my skills and gain real experience while growing my career in this fields.
+I'm a beginner Data Analyst wih an interest in learning how data can help decisions making in business. I have basic skills in Excel, SQL and Python. I enjoy working with data to find simple insight and solving problems. I'm eager to learn, improve my skills and gain real experience while growing my career in this fields.
 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
@@ -16,7 +16,7 @@ I'm a beginner Data Analyst wih an interest in learning how data can help decisi
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project:** Case Study 1: How does a bike-share navigate speedy success?   
+- **Project:** Case Study 1: How does a bike-share navigate speedy success? (In progress)   
 
 
 ## 🛠️ Technical Skillset
