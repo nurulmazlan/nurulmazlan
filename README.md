@@ -13,7 +13,7 @@ I'm a beginner Data Analyst wih an interest in learning how data can help decisi
 ## 🔭 What I'm Currently Working On 
 
 - **Project:** Case Study 1: How does a bike-share navigate speedy success?
-  + 
+  + [Google Data Analytics Capstone Case Study](https://github.com/nurulmazlan/google-data-analytics-capstone-case-study-1)
 
 
 ## 🛠️ Technical Skillset
